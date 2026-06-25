@@ -1,0 +1,2 @@
+# astrbot_plugin_text_system_status_monitor
+系统状态监控
