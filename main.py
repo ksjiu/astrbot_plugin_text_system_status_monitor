@@ -16,7 +16,7 @@ from astrbot.api.star import Context, Star, register
 @register(
     "astrbot_plugin_text_system_status_monitor",
     "久孤(ksjiu)",
-    "test",
+    "astrbot_plugin_text_system_status_monitor",
     "1.2.0",
 )
 class TextStatusPlugin(Star):
