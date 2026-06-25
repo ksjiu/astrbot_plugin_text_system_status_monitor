@@ -1,0 +1,8 @@
+id: astrbot_plugin_text_system_status_monitor
+name: 系统状态监控
+version: 1.2.0
+author: 久孤(ksjiu)
+description: "这是一个纯文字版的系统状态监控插件，具备完善的 QQ 白名单动态管理功能，非白名单用户将无法查看系统状态。"
+support_platforms:
+  - aiocqhttp
+astrbot_version: ">=4.25"

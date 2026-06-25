@@ -1,0 +1,14 @@
+{
+  "master_admin": {
+    "description": "主管理员(最高权限) 命令为/status /状态 /设置列表 增加/删除 [QQNumber]",
+    "type": "string",
+    "hint": "填写主管理员的QQ号。只有他可以使用命令管理允许使用状态指令的QQ列表。",
+    "default": ""
+  },
+  "allowed_qq_list": {
+    "description": "初始允许使用状态的QQ列表",
+    "type": "list",
+    "hint": "默认允许查询系统状态的QQ号列表。",
+    "default": []
+  }
+}
